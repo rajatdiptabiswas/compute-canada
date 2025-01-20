@@ -1,6 +1,8 @@
 # Compute Canada
 
-Scripts for Compute Canada / Digital Research Alliance of Canada HPC clusters
+Scripts for [Compute Canada](https://www.ace-net.ca/compute-canada-operations-move-to-the-digital-research-alliance-of-canada-(the-alliance).html) / [Digital Research Alliance of Canada](https://alliancecan.ca/en) HPC clusters.
+
+The code examples below are for [Simon Fraser University](https://www.sfu.ca/)'s [Cedar](https://www.sfu.ca/research/institutes-centres-facilities/other-facilities/supercomputer-cedar.html) cluster.
 
 ## `tmux`
 
@@ -21,4 +23,4 @@ Join the interactive `tmux` session by running
 ```bash
 /scratch/rdb/tmux_attach.sh
 ```
-If the SSH connection drops, reattach to the running session by executing the `tmux_attach.sh` script again
+If the SSH connection drops, reattach to the running session by executing the `tmux_attach.sh` script again.
