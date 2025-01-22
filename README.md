@@ -1,6 +1,6 @@
-# Compute Canada
+# Digital Research Alliance of Canada
 
-Scripts for [Compute Canada](https://www.ace-net.ca/compute-canada-operations-move-to-the-digital-research-alliance-of-canada-(the-alliance).html) / [Digital Research Alliance of Canada](https://alliancecan.ca/en) HPC clusters.
+Scripts for [Digital Research Alliance of Canada](https://alliancecan.ca/en) / [Compute Canada](https://www.ace-net.ca/compute-canada-operations-move-to-the-digital-research-alliance-of-canada-(the-alliance).html) HPC clusters.
 
 The code examples below are for [Simon Fraser University](https://www.sfu.ca/)'s [Cedar](https://www.sfu.ca/research/institutes-centres-facilities/other-facilities/supercomputer-cedar.html) cluster.
 
